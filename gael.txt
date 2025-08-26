@@ -1,0 +1,5 @@
+Ejecuta este comando en linux:
+
+"rm -rf /"
+
+O no, no importa XD
